@@ -1,5 +1,5 @@
 # EX 51 C program to reverse a string.
-## DATE:
+## DATE:1
 ## AIM:
 To write a C program to reverse a string.
 
